@@ -1,0 +1,21 @@
+.title-container{
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 1140px;
+  height: 98px;
+  background: rgba(24, 26, 37, 0.5);
+  mix-blend-mode: hard-light;
+  border: 1px solid #FFFFFF;
+  border-radius: 17px;
+
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 150%;
+}

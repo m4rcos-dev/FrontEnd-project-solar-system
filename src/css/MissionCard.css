@@ -1,0 +1,41 @@
+.mission-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 354px;
+  height: 281px;
+  background: rgba(24, 26, 37, 0.5);
+  mix-blend-mode: hard-light;
+  border: 1px solid #FFFFFF;
+  border-radius: 17px;
+  margin: 20px;
+}
+
+.mission-card:hover {
+  box-shadow: 0 0 1em gold;
+  cursor: pointer;
+}
+
+.name-mission {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 120%;
+}
+
+.name-container {
+  display: flex;
+  border-bottom: 2px solid white;
+  width: 314px;
+  padding: 20px;
+}
+
+.all-info-mission {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+  padding: 20px;
+}

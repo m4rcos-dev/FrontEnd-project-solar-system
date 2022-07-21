@@ -1,0 +1,6 @@
+.all-missions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 200px 0px 200px;
+}

@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 50px 0px 50px 0px;
+}
+
+.header-title {
+  width: 692px;
+  height: 150px;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 150%;
+  text-align: center;
+}
